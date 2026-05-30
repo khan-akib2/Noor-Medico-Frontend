@@ -127,7 +127,7 @@ export default function Hero() {
               </div>
 
               {/* Float Card 1: Insulin Cold Storage reminder */}
-              <div className="floating-card absolute -left-6 bottom-16 bg-white px-5 py-4 rounded-2xl shadow-premium border border-slate-100/80 flex items-center gap-3.5 max-w-[240px]">
+              <div className="floating-card absolute hidden sm:flex -left-6 bottom-16 bg-white px-5 py-4 rounded-2xl shadow-premium border border-slate-100/80 items-center gap-3.5 max-w-[240px]">
                 <div className="w-10 h-10 rounded-xl bg-teal-50 text-teal-700 flex items-center justify-center shrink-0">
                   <span className="text-xl">❄️</span>
                 </div>
@@ -138,7 +138,7 @@ export default function Hero() {
               </div>
 
               {/* Float Card 2: Phone quick support */}
-              <div className="floating-card absolute -right-4 top-16 bg-white px-5 py-4 rounded-2xl shadow-premium border border-slate-100/80 flex items-center gap-3.5 max-w-[200px] delay-500">
+              <div className="floating-card absolute hidden sm:flex -right-4 top-16 bg-white px-5 py-4 rounded-2xl shadow-premium border border-slate-100/80 items-center gap-3.5 max-w-[200px] delay-500">
                 <div className="w-10 h-10 rounded-xl bg-emerald-50 text-emerald-700 flex items-center justify-center shrink-0">
                   <Phone className="w-5 h-5" />
                 </div>
