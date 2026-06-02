@@ -36,7 +36,7 @@ export default function About() {
     },
     {
       title: "Our Vision",
-      desc: "To become Navi Mumbai's most trusted, digital-forward health partner—redefining community pharmacy care through strict quality compliance, modern storage, and clinical empathy.",
+      desc: "To become Thane's most trusted, digital-forward health partner—redefining community pharmacy care through strict quality compliance, modern storage, and clinical empathy.",
       icon: Milestone,
       bgColor: "bg-emerald-50",
       iconColor: "text-emerald-700"
@@ -88,7 +88,7 @@ export default function About() {
                   We believe that a pharmacy is more than just a retail counter. It is a critical component of the healthcare system. That is why we strictly buy directly from corporate pharmaceutical networks, eliminating trade brokers who might introduce sub-standard or counterfeit drugs.
                 </p>
                 <p>
-                  Our storefront in Koparkhairane Navi Mumbai is equipped with high-end clinical refrigerators, double backup power grids, and digital temperature sensors, ensuring temperature-sensitive medications like insulins, thyroid hormones, and vaccines remain highly active and potent.
+                  Our storefront in Mumbra, Thane is equipped with high-end clinical refrigerators, double backup power grids, and digital temperature sensors, ensuring temperature-sensitive medications like insulins, thyroid hormones, and vaccines remain highly active and potent.
                 </p>
               </div>
 
@@ -172,7 +172,7 @@ export default function About() {
             Need Expert Health Guidance or Prescription verification?
           </h2>
           <p className="text-teal-100 text-sm sm:text-base leading-relaxed">
-            Our qualified pharmacy team is ready to double-check your prescription compatibility and dosage guidelines. Reach out to us directly or visit our Koparkhairane branch.
+            Our qualified pharmacy team is ready to double-check your prescription compatibility and dosage guidelines. Reach out to us directly or visit our Mumbra branch.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-2">
             <a

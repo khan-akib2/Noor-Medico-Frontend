@@ -72,7 +72,7 @@ export default function Hero() {
 
             {/* Subheading */}
             <p className="hero-text-item text-base sm:text-lg md:text-xl text-slate-600 leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              Noor Medico provides verified pharmaceutical products, specialized cold-chain insulins, daily wellness essentials, and registered pharmacist counsel right in Koparkhairane.
+              Noor Medico provides verified pharmaceutical products, specialized cold-chain insulins, daily wellness essentials, and registered pharmacist counsel right in Mumbra, Thane.
             </p>
 
             {/* Trust Badges */}

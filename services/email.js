@@ -73,7 +73,7 @@ export async function sendOTP({ email, otp, name }) {
         <p style="font-size: 14px; color: #64748b; margin-bottom: 0; line-height: 1.5;">Warm regards,<br><strong style="color: #0f766e;">The Noor Medico Team</strong></p>
       </div>
       <div style="background-color: #f1f5f9; padding: 24px; text-align: center; border-top: 1px solid #e2e8f0;">
-        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">Shop No. 1, Noor Heights, Sector 15, Koperkhairane, Navi Mumbai, MH 400709</p>
+        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">SHOP NO.05, Khan Compound, near HIRA RESIDENCY, Mumbra, Thane, MH 400612</p>
         <p style="margin: 0; font-size: 12px; color: #94a3b8;">Need help? Call us at <a href="tel:+918828081398" style="color: #0f766e; text-decoration: none; font-weight: 600;">+91 88280 81398</a></p>
       </div>
     </div>
@@ -115,7 +115,7 @@ export async function sendPasswordReset({ email, resetLink, name }) {
         <p style="font-size: 14px; color: #64748b; margin-bottom: 0; line-height: 1.5;">Warm regards,<br><strong style="color: #0f766e;">The Noor Medico Team</strong></p>
       </div>
       <div style="background-color: #f1f5f9; padding: 24px; text-align: center; border-top: 1px solid #e2e8f0;">
-        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">Shop No. 1, Noor Heights, Sector 15, Koperkhairane, Navi Mumbai, MH 400709</p>
+        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">SHOP NO.05, Khan Compound, near HIRA RESIDENCY, Mumbra, Thane, MH 400612</p>
         <p style="margin: 0; font-size: 12px; color: #94a3b8;">Need help? Call us at <a href="tel:+918828081398" style="color: #0f766e; text-decoration: none; font-weight: 600;">+91 88280 81398</a></p>
       </div>
     </div>
@@ -155,7 +155,7 @@ export async function sendWelcomeEmail({ email, name }) {
         <p style="font-size: 14px; color: #64748b; margin-bottom: 0; line-height: 1.5;">Warm regards,<br><strong style="color: #0f766e;">The Noor Medico Team</strong></p>
       </div>
       <div style="background-color: #f1f5f9; padding: 24px; text-align: center; border-top: 1px solid #e2e8f0;">
-        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">Shop No. 1, Noor Heights, Sector 15, Koperkhairane, Navi Mumbai, MH 400709</p>
+        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">SHOP NO.05, Khan Compound, near HIRA RESIDENCY, Mumbra, Thane, MH 400612</p>
         <p style="margin: 0; font-size: 12px; color: #94a3b8;">Need help? Call us at <a href="tel:+918828081398" style="color: #0f766e; text-decoration: none; font-weight: 600;">+91 88280 81398</a></p>
       </div>
     </div>
@@ -181,7 +181,7 @@ export async function sendNotification({ email, subject, title, body }) {
         <p style="font-size: 14px; color: #64748b; margin-bottom: 0; line-height: 1.5;">Warm regards,<br><strong style="color: #0f766e;">The Noor Medico Team</strong></p>
       </div>
       <div style="background-color: #f1f5f9; padding: 24px; text-align: center; border-top: 1px solid #e2e8f0;">
-        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">Shop No. 1, Noor Heights, Sector 15, Koperkhairane, Navi Mumbai, MH 400709</p>
+        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">SHOP NO.05, Khan Compound, near HIRA RESIDENCY, Mumbra, Thane, MH 400612</p>
         <p style="margin: 0; font-size: 12px; color: #94a3b8;">Need help? Call us at <a href="tel:+918828081398" style="color: #0f766e; text-decoration: none; font-weight: 600;">+91 88280 81398</a></p>
       </div>
     </div>
@@ -359,7 +359,7 @@ export async function sendPharmacistResponseEmail({ email, name, subject, messag
         <p style="font-size: 14px; color: #64748b; margin-bottom: 0; line-height: 1.5;">Warm regards,<br><strong style="color: #0f766e;">The Noor Medico Team</strong></p>
       </div>
       <div style="background-color: #f1f5f9; padding: 24px; text-align: center; border-top: 1px solid #e2e8f0;">
-        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">Shop No. 1, Noor Heights, Sector 15, Koperkhairane, Navi Mumbai, MH 400709</p>
+        <p style="margin: 0 0 8px 0; font-size: 12px; color: #94a3b8;">SHOP NO.05, Khan Compound, near HIRA RESIDENCY, Mumbra, Thane, MH 400612</p>
         <p style="margin: 0; font-size: 12px; color: #94a3b8;">Need help? Call us at <a href="tel:+918828081398" style="color: #0f766e; text-decoration: none; font-weight: 600;">+91 88280 81398</a></p>
       </div>
     </div>

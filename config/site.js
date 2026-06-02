@@ -5,8 +5,8 @@ export const siteConfig = {
   formattedPhone: "+91 88280 81398",
   email: "zrazmi3@gmail.com",
   whatsappUrl: "https://wa.me/918828081398?text=Hello%20Noor%20Medico%2C%20I%20have%20a%20prescription%20inquiry.",
-  address: "Shop No. 1, Noor Heights, Sector 15, Koperkhairane, Navi Mumbai, Maharashtra 400709", // Premium standard Mumbai address
-  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.089849206689!2d73.003314!3d19.1146749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c11f71dfb5c7%3A0xe510f8373b5e1bde!2sKoparkhairane%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin", // Clean Koparkhairane Navi Mumbai map coords
+  address: "SHOP NO.05, Khan Compound, near HIRA RESIDENCY, Mumbra, Thane, Maharashtra 400612", // Premium standard Mumbra Thane address
+  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.0299532329955!2d73.0363188!3d19.1501661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf22d80aa50f%3A0xf101af564ad438fb!2sNOOR%20MEDICO!5e0!3m2!1sen!2sin!4v1717319080000!5m2!1sen!2sin", // Clean Mumbra Thane map coords
   
   tagline: "Your Trusted Partner in Healthcare & Genuine Medicines",
   description: "Providing high-quality prescription medicines, OTC drugs, health essentials, and expert pharmacist guidance with absolute care and trust.",
@@ -106,7 +106,7 @@ export const siteConfig = {
     },
     {
       title: "Community Trust & Care",
-      description: "Operating with high ethical standards in Koparkhairane Navi Mumbai. We prioritize human health and customer well-being above commercial metrics."
+      description: "Operating with high ethical standards in Mumbra, Thane. We prioritize human health and customer well-being above commercial metrics."
     }
   ],
   
@@ -118,7 +118,7 @@ export const siteConfig = {
     },
     {
       name: "Shalini Deshmukh",
-      role: "Koperkhairane Resident",
+      role: "Mumbra Resident",
       content: "Noor Medico has been our family chemist for over a decade. When my father needed a rare oncology medicine, they sourced it within 12 hours from the direct distributor. That is true dedication!"
     },
     {

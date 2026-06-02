@@ -317,7 +317,7 @@ export default function Contact() {
           allowFullScreen=""
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
-          title="Noor Medico Physical Location Koparkhairane Map"
+          title="Noor Medico Physical Location Mumbra Map"
         />
       </section>
 

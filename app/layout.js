@@ -17,9 +17,9 @@ export const metadata = {
     process.env.NEXT_PUBLIC_APP_URL ||
     (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000")
   ),
-  title: "NOOR MEDICO | Premium Pharmacy, Chemist & Druggist in Navi Mumbai",
-  description: "NOOR MEDICO is a trusted Medical Store providing 100% genuine prescription medicines, OTC drugs, health essentials, insulin cold storage, and daily wellness products with professional care in Koparkhairane, Navi Mumbai. Phone: 8828081398.",
-  keywords: ["Noor Medico", "Chemist in Koperkhairane", "Medical Store Navi Mumbai", "Pharmacy Navi Mumbai", "Genuine Medicines Mumbai", "Insulin Storage Chemist"],
+  title: "NOOR MEDICO | Premium Pharmacy, Chemist & Druggist in Mumbra, Thane",
+  description: "NOOR MEDICO is a trusted Medical Store providing 100% genuine prescription medicines, OTC drugs, health essentials, insulin cold storage, and daily wellness products with professional care in Mumbra, Thane. Phone: 8828081398.",
+  keywords: ["Noor Medico", "Chemist in Mumbra", "Medical Store Thane", "Pharmacy Mumbra", "Genuine Medicines Thane", "Insulin Storage Chemist"],
   icons: {
     icon: "/images/logo.png",
     shortcut: "/images/logo.png",
@@ -27,7 +27,7 @@ export const metadata = {
   },
   openGraph: {
     title: "NOOR MEDICO | Premium Pharmacy, Chemist & Druggist",
-    description: "Your trusted pharmacy partner for authentic health essentials and prescription drugs in Navi Mumbai.",
+    description: "Your trusted pharmacy partner for authentic health essentials and prescription drugs in Mumbra, Thane.",
     type: "website",
     locale: "en_IN",
     images: [
@@ -42,7 +42,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "NOOR MEDICO | Premium Pharmacy, Chemist & Druggist",
-    description: "Your trusted pharmacy partner for authentic health essentials and prescription drugs in Navi Mumbai.",
+    description: "Your trusted pharmacy partner for authentic health essentials and prescription drugs in Mumbra, Thane.",
     images: ["/images/logo.png"],
   },
   robots: {

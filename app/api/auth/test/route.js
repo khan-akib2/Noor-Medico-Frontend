@@ -71,7 +71,7 @@ export async function GET(request) {
         email: targetEmail,
         subject: "Urgent: Direct Distributor Sourcing Notice",
         title: "Rare Medicine Sourcing Complete",
-        body: `Hello ${name},\n\nWe have successfully sourced the oncology medications requested earlier today. The cold-chain storage packaging has been certified, and the medicines are ready for collection at our Koparkhairane branch.\n\nPlease complete the verification steps within 2 hours to avoid batch release to the secondary queue.\n\nThank you,\nNoor Medico Staff`
+        body: `Hello ${name},\n\nWe have successfully sourced the oncology medications requested earlier today. The cold-chain storage packaging has been certified, and the medicines are ready for collection at our Mumbra branch.\n\nPlease complete the verification steps within 2 hours to avoid batch release to the secondary queue.\n\nThank you,\nNoor Medico Staff`
       });
       results.notification = "Success";
     } catch (e) {
